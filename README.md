@@ -63,4 +63,3 @@ The project uses outpatient claims and three annual beneficiary summary files fr
 
 SQL checks identify duplicate records and invalid dates or amounts, and confirm that joining the tables does not change claim counts or financial totals. The annual amounts calculated from claims matched the CMS beneficiary summaries. `test_checks.py` uses small example datasets to check that invalid records and financial discrepancies are detected.
 
-[How to run](SETUP.md)
