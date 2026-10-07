@@ -1,0 +1,10 @@
+report_year,measure,calculated_total,supplied_total,difference,beneficiary_mismatch_count
+2008,beneficiary_responsibility,22979780.00,22979780.00,0.00,0
+2008,medicare_reimbursement,72397300.00,72397300.00,0.00,0
+2008,primary_payer_reimbursement,2993060.00,2993060.00,0.00,0
+2009,beneficiary_responsibility,26767940.00,26767940.00,0.00,0
+2009,medicare_reimbursement,88139830.00,88139830.00,0.00,0
+2009,primary_payer_reimbursement,3461740.00,3461740.00,0.00,0
+2010,beneficiary_responsibility,14744380.00,14744380.00,0.00,0
+2010,medicare_reimbursement,48755220.00,48755220.00,0.00,0
+2010,primary_payer_reimbursement,1551930.00,1551930.00,0.00,0
